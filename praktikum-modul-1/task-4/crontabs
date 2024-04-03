@@ -1,0 +1,6 @@
+* */5 * * *  /home/oberon/Documents/ITS/MODUL_1/praktikum-modul1-d27/task-4/isabel.sh download_photos
+0 0 * * *  /home/oberon/Documents/ITS/MODUL_1/praktikum-modul1-d27/task-4/isabel.sh download_photos_10
+0 0 * * *  /home/oberon/Documents/ITS/MODUL_1/praktikum-modul1-d27/task-4/isabel.sh download_character_photos
+0 * * * *  /home/oberon/Documents/ITS/MODUL_1/praktikum-modul1-d27/task-4/isabel.sh otw_zip
+
+0 2 * * *  /home/oberon/Documents/ITS/MODUL_1/praktikum-modul1-d27/task-4/isabel.sh delete_zip_n_folder

@@ -1,0 +1,16 @@
+24/03/21 11:42:51 LOGIN: SUCCESS Mario_Aritonang is logged in
+24/03/21 11:46:13 LOGIN: SUCCESS Mario_Aritonang is logged in
+24/03/21 13:53:06 LOGIN: SUCCESS Mario_Aritonang is logged in
+24/03/21 13:57:22 REGISTER: SUCCESS qiqiqi is registered. Proposal 481 is added
+24/03/21 13:58:48 REGISTER: SUCCESS c is registered. Proposal 482 is added
+24/03/21 13:59:22 REGISTER: SUCCESS w is registered. Proposal 483 is added
+24/03/22 05:39:34 LOGIN: SUCCESS Mario_Aritonang is logged in
+24/03/22 05:41:41 LOGIN: SUCCESS Mario is logged in
+24/03/22 09:22:36 REGISTER: SUCCESS Qiqi is registered. Proposal 481 is added
+24/03/22 09:28:44 REGISTER: SUCCESS qiqi is registered. Proposal 481 is added
+24/03/22 09:29:21 REGISTER: SUCCESS bobon is registered. Proposal 483 is added
+24/03/22 09:31:15 REGISTER: SUCCESS wenak is registered. Proposal 482 is added
+24/03/22 09:32:50 REGISTER: SUCCESS wenak is registered. Proposal 480 is added
+24/03/22 09:34:13 REGISTER: SUCCESS wenak is registered. Proposal 481 is added
+24/03/22 09:35:18 REGISTER: SUCCESS qiqi is registered. Proposal 482 is added
+24/03/22 13:56:50 LOGIN: SUCCESS Mario is logged in
